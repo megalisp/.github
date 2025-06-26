@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h1>'( ) MEGA/h1>
+  <h1>'( ) MEGA</h1>
   <h2>[ie: Jost Grant]</h2>
   <h4>¡Legal Name: Joshua Steven Grant!</h2>
 </div>
