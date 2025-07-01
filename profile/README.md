@@ -42,7 +42,10 @@
 ---
 
 ### DESCRIPTION
-`--`
+Hey everyone, `Jost Grant` (legal name: Joshua Steven Grant) here; <br><br> In 'short' the focus of this account has changed a LOT over the past few years -- so much so, I thought it was warranted to, well start from scratch; To delete my old account `jostgrant`, and repurpose it as a kind of private dropbox. Which has been part of a very personal, very purposeful (ie: purpose driven), and very (self-)conscious attempt to reorient my goals, my focus, and even ... well my identity away from my self and actually TO something.
+
+This account is now about `Building Big Things; In LISP!` & the arduous journeyman to get there; Aiming high-enough to reach escape-velocity from expert-beginner; And accumulating enough mass to hopefully achive some kind of gravitatoinal pull.
+
 
 ### INTERESTS
 Conversational / Interactive Systems, Self-Driven Education / Edutainment, AR/VR Interfaces, Spatial Computing, Distributed Computing, Realtime Network Synchronization, Large-Language-Models, Language Development, Homoiconicity, List Processing (ie: LISP).
