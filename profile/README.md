@@ -52,7 +52,7 @@ Conversational / Interactive Systems, Self-Driven Education / Edutainment, AR/VR
 
 ### ROADMAP
 
-All-in on Studying [Racket](https://racket-lang.org) via [Ette](https://github.com/megalisp/ette); Then sometime next-year, prob mid-to-end of it (2026) -- start working on [Rocket]().
+All-in on Studying [Racket](https://racket-lang.org) via [Ette](https://github.com/megalisp/ette); Around early-to-mid 2026, start working on [Raykit](https://github.com/megalisp/raykit) x [Raygun](https://github.com/megalisp/raygun).
 
 ### STATUS
 #### [2025-06-26]
