@@ -44,7 +44,7 @@
 ### DESCRIPTION
 Hey everyone, `Jost Grant` (legal name: Joshua Steven Grant) here; <br><br> In 'short' the focus of this account has changed a LOT over the past few years -- so much so, I thought it was warranted to, well start from scratch; To delete my old account `jostgrant`, and repurpose it as a kind of private dropbox. Which has been part of a very personal, very purposeful (ie: purpose driven), and very (self-)conscious attempt to reorient my goals, my focus, and even ... well my identity away from my self and actually TO something.
 
-This account is now about `Building Big Things; In LISP!` & the arduous journeyman to get there; Aiming high-enough to reach escape-velocity from expert-beginner; And accumulating enough mass to hopefully achive some kind of gravitatoinal pull.
+This account is now about `Building Big Things; In LISP!` & the arduous journey(man-oh-man) to get there; Aiming high-enough to reach escape-velocity from expert-beginner; And accumulating enough mass to hopefully achive some kind of gravitatoinal pull.
 
 
 ### INTERESTS
@@ -74,5 +74,27 @@ https://megalisp.github.io
 -----
 
 
+### KNOWLEDGEBASES
+### (Obsidian Vaults)
+
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="150px"><strong>🧠<br><a href="https://github.com/megalisp/megalo">megalo</a></strong></td>
+    <td align="center" width="150px"><strong>🎮<br><a href="https://github.com/megalisp/mecha">mecha</a></strong></td>
+    <td align="center" width="150px"><strong>📘<br><a href="https://github.com/megalisp/ymology">ymology</a></strong></td>
+    <td align="center" width="150px"><strong>⚖️<br><a href="https://github.com/megalisp/ethics">ethics</a></strong></td>
+    <td align="center" width="150px"><strong>🧪<br><a href="https://github.com/megalisp/science">science</a></strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><p>...</p></td>
+    <td align="center" valign="top"><p>...</p></td>
+    <td align="center" valign="top"><p>...</p></td>
+    <td align="center" valign="top"><p>...</p></td>
+    <td align="center" valign="top"><p>...</p></td>
+  </tr>
+</table>
+</div>
 
 
