@@ -75,8 +75,10 @@ https://megalisp.github.io
 
 
 ### KNOWLEDGEBASES
-### (Obsidian Vaults)
 
+<div align="center">
+  <h4>(Obsidian Vaults)</h2>
+</div>
 
 <div align="center">
 <table>
@@ -86,13 +88,6 @@ https://megalisp.github.io
     <td align="center" width="150px"><strong>📘<br><a href="https://megalisp.github.io/ymology">ymology</a></strong></td>
     <td align="center" width="150px"><strong>⚖️<br><a href="https://megalisp.github.io/ethics">ethics</a></strong></td>
     <td align="center" width="150px"><strong>🧪<br><a href="https://megalisp.github.io/science">science</a></strong></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><p>...</p></td>
-    <td align="center" valign="top"><p>...</p></td>
-    <td align="center" valign="top"><p>...</p></td>
-    <td align="center" valign="top"><p>...</p></td>
-    <td align="center" valign="top"><p>...</p></td>
   </tr>
 </table>
 </div>
