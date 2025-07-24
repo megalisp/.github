@@ -81,11 +81,11 @@ https://megalisp.github.io
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="150px"><strong>🧠<br><a href="https://github.com/megalisp/megalo">megalo</a></strong></td>
-    <td align="center" width="150px"><strong>🎮<br><a href="https://github.com/megalisp/mecha">mecha</a></strong></td>
-    <td align="center" width="150px"><strong>📘<br><a href="https://github.com/megalisp/ymology">ymology</a></strong></td>
-    <td align="center" width="150px"><strong>⚖️<br><a href="https://github.com/megalisp/ethics">ethics</a></strong></td>
-    <td align="center" width="150px"><strong>🧪<br><a href="https://github.com/megalisp/science">science</a></strong></td>
+    <td align="center" width="150px"><strong>🧠<br><a href="https://megalisp.github.io/megalo">megalo</a></strong></td>
+    <td align="center" width="150px"><strong>🎮<br><a href="https://megalisp.github.io/mecha">mecha</a></strong></td>
+    <td align="center" width="150px"><strong>📘<br><a href="https://megalisp.github.io/ymology">ymology</a></strong></td>
+    <td align="center" width="150px"><strong>⚖️<br><a href="https://megalisp.github.io/ethics">ethics</a></strong></td>
+    <td align="center" width="150px"><strong>🧪<br><a href="https://megalisp.github.io/science">science</a></strong></td>
   </tr>
   <tr>
     <td align="center" valign="top"><p>...</p></td>
