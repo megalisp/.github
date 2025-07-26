@@ -1,14 +1,10 @@
+
 <div align="center">
   <a href="" target="_blank">
     <img src="/profile/asset/banner.webp" alt="Banner">
   </a>
 </div>
 
-<div align="center">
-  <h1>'( ) MEGA</h1>
-  <h2>[ie: Jost Grant]</h2>
-  <h4>¡Legal Name: Joshua Steven Grant!</h2>
-</div>
 
 <div align="center">
    <p>
@@ -53,6 +49,7 @@
     </a>
   </p>
 </div>
+
 
 ---
 
