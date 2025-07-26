@@ -1,9 +1,14 @@
+<details>
+  <summary>ᨒ</summary>
 
-<div align="center">
-  <a href="" target="_blank">
-    <img src="/profile/asset/banner.webp" alt="Banner">
-  </a>
-</div>
+  <div align="center">
+    <a href="" target="_blank">
+      <img src="/profile/asset/banner.webp" alt="Banner">
+    </a>
+  </div>
+
+</details>
+
 
 
 <div align="center">
