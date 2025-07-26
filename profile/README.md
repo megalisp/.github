@@ -1,6 +1,6 @@
 <div align="center">
   <a href="" target="_blank">
-    <img src="/profile/asset/avatars/rounded/megalisp.png" alt="Discord" height="240">
+    <img src="/profile/asset/banner.webp" alt="Banner">
   </a>
 </div>
 
