@@ -1,0 +1,5 @@
+Files in the `assets/fontawesome` directory are part of FontAwesome
+and as-such fall under the same licensing as that project, which ... 
+
+You can see the terms of which here:
+https://github.com/FortAwesome/Font-Awesome?tab=License-1-ov-file#readme
