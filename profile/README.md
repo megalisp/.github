@@ -103,11 +103,11 @@ https://megalisp.github.io
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="150px"><strong>🧠<br><a href="https://megalisp.github.io/megalo">Megalo</a></strong></td>
-    <td align="center" width="150px"><strong>🤖<br><a href="https://megalisp.github.io/mecha">Mecha</a></strong></td>
-    <td align="center" width="150px"><strong>🌞<br><a href="https://megalisp.github.io/gday">G'Day</a></strong></td>
-    <td align="center" width="150px"><strong>⚙️<br><a href="https://megalisp.github.io/shift">Shift</a></strong></td>
-    <td align="center" width="150px"><strong>⚽<br><a href="https://megalisp.github.io/goli/">Goli</a></strong></td>
+    <td align="center" width="150px"><strong>🧠<br><a href="https://megalisp.github.io/vaults/megalo/">Megalo</a></strong></td>
+    <td align="center" width="150px"><strong>🤖<br><a href="https://megalisp.github.io/vaults/mecha/">Mecha</a></strong></td>
+    <td align="center" width="150px"><strong>🌞<br><a href="https://megalisp.github.io/vaults/gday/">G'Day</a></strong></td>
+    <td align="center" width="150px"><strong>⚙️<br><a href="https://megalisp.github.io/vaults/shift/">Shift</a></strong></td>
+    <td align="center" width="150px"><strong>⚽<br><a href="https://megalisp.github.io/vaults/goli/">Goli</a></strong></td>
   </tr>
 </table>
 </div>
