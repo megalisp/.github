@@ -14,43 +14,43 @@
 <div align="center">
    <p>
     <a href="https://megalisp.github.io" target="_blank">
-      <img src="/profile/asset/fontawesome/house-user-solid.svg" alt="Website" height="30">
+      <img src="/profile/asset/fontawesome/stylized/house-user-solid.png" alt="Website" height="30">
     </a>
     <a href="https://gist.github.com/megalisp" target="_blank">
-      <img src="/profile/asset/fontawesome/clipboard-solid.svg" alt="Gists" height="30">
+      <img src="/profile/asset/fontawesome/stylized/clipboard-solid.png" alt="Gists" height="30">
     </a>
     <a href="https://github.com/megalisp" target="_blank">
-      <img src="/profile/asset/fontawesome/github-alt-brands.svg" alt="GitHub" height="30">
+      <img src="/profile/asset/fontawesome/stylized/github-alt-brands.png" alt="GitHub" height="30">
     </a>
     <a href="https://discord.gg/6Re3dCKRgV" target="_blank">
-      <img src="/profile/asset/fontawesome/discord-brands.svg" alt="Discord" height="30">
+      <img src="/profile/asset/fontawesome/stylized/discord-brands.png" alt="Discord" height="30">
     </a>
     <a href="https://www.youtube.com/@megalisp" target="_blank">
-      <img src="/profile/asset/fontawesome/youtube-brands.svg" alt="YouTube" height="30">
+      <img src="/profile/asset/fontawesome/stylized/youtube-brands.png" alt="YouTube" height="30">
     </a>
     <a href="https://www.twitch.tv/megalisp" target="_blank">
-      <img src="/profile/asset/fontawesome/twitch-brands.svg" alt="Twitch" height="30">
+      <img src="/profile/asset/fontawesome/stylized/twitch-brands.png" alt="Twitch" height="30">
     </a>
     <a href="https://megalisp.itch.io/" target="_blank">
-      <img src="/profile/asset/fontawesome/itch-io-brands.svg" alt="Itch.io" height="30">
+      <img src="/profile/asset/fontawesome/stylized/itch-io-brands.png" alt="Itch.io" height="30">
     </a>
     <a href="https://suno.com/@megalisp" target="_blank">
-      <img src="/profile/asset/fontawesome/music-solid.svg" alt="Suno" height="30">
+      <img src="/profile/asset/fontawesome/stylized/music-solid.png" alt="Suno" height="30">
     </a>
     <a href="https://tiktok.com/@megalisp" target="_blank">
-      <img src="/profile/asset/fontawesome/tiktok-brands.svg" alt="Tiktok" height="30">
+      <img src="/profile/asset/fontawesome/stylized/tiktok-brands.png" alt="Tiktok" height="30">
     </a>
       <a href="https://cash.app/$megalisp" target="_blank">
-      <img src="/profile/asset/fontawesome/dollar-sign-solid.svg" alt="CashApp" height="30">
+      <img src="/profile/asset/fontawesome/stylized/dollar-sign-solid.png" alt="CashApp" height="30">
     </a>
     <a href="https://paypal.me/megalisp" target="_blank">
-      <img src="/profile/asset/fontawesome/paypal-brands.svg" alt="Paypal" height="30">
+      <img src="/profile/asset/fontawesome/stylized/paypal-brands.png" alt="Paypal" height="30">
     </a>
     <a href="https://patreon.com/megalisp" target="_blank">
-      <img src="/profile/asset/fontawesome/patreon-brands.svg" alt="Patreon" height="30">
+      <img src="/profile/asset/fontawesome/stylized/patreon-brands.png" alt="Patreon" height="30">
     </a>
     <a href="https://github.com/sponsors/megalisp" target="_blank">
-      <img src="/profile/asset/fontawesome/heart-solid.svg" alt="Sponsor" height="30">
+      <img src="/profile/asset/fontawesome/stylized/heart-solid.png" alt="Sponsor" height="30">
     </a>
   </p>
 </div>
