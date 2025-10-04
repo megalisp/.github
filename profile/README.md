@@ -104,7 +104,7 @@ https://megalisp.github.io
 <table>
   <tr>
     <td align="center" width="150px"><strong>🧠<br><a href="https://megalisp.github.io/vault-megalo/index.html">Megalo</a></strong></td>
-    <td align="center" width="150px"><strong>🗿<br><a href="https://megalisp.github.io/vaults-mania/index.html">Mania</a></strong></td>
+    <td align="center" width="150px"><strong>🗿<br><a href="https://megalisp.github.io/vault-mania/index.html">Mania</a></strong></td>
     <td align="center" width="150px"><strong>🤖<br><a href="https://megalisp.github.io/vault-mecha/index.html">Mecha</a></strong></td>
     <td align="center" width="150px"><strong>🌞<br><a href="https://megalisp.github.io/vault-gday/index.html">G'Day</a></strong></td>
     <td align="center" width="150px"><strong>🧊<br><a href="https://megalisp.github.io/vault-ice3/index.html">Ice3</a></strong></td>
