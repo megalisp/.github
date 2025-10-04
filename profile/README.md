@@ -104,8 +104,10 @@ https://megalisp.github.io
 <table>
   <tr>
     <td align="center" width="150px"><strong>🧠<br><a href="https://megalisp.github.io/vaults/megalo/">Megalo</a></strong></td>
+    <td align="center" width="150px"><strong>🗿<br><a href="https://megalisp.github.io/vaults/mania/">Mania</a></strong></td>
     <td align="center" width="150px"><strong>🤖<br><a href="https://megalisp.github.io/vaults/mecha/">Mecha</a></strong></td>
     <td align="center" width="150px"><strong>🌞<br><a href="https://megalisp.github.io/vaults/gday/">G'Day</a></strong></td>
+    <td align="center" width="150px"><strong>🧊<br><a href="https://megalisp.github.io/vaults/ice3/">Ice3</a></strong></td>
     <td align="center" width="150px"><strong>⚙️<br><a href="https://megalisp.github.io/vaults/shift/">Shift</a></strong></td>
     <td align="center" width="150px"><strong>⚽<br><a href="https://megalisp.github.io/vaults/goli/">Goli</a></strong></td>
   </tr>
